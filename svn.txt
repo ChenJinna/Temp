@@ -1,0 +1,14 @@
+username：jinna.chen 
+password：uirownds
+
+
+源码库
+svn://172.16.8.211/usr/www/svn/android/GXTProject
+文档库
+svn://172.16.8.211/usr/www/svn/app_file/%E7%9B%96%E8%AE%AF%E9%80%9A%E6%96%87%E6%A1%A3%E5%BA%93  
+
+eclipse中svn插件
+http://subclipse.tigris.org/update_1.10.x
+
+
+GW41591435
